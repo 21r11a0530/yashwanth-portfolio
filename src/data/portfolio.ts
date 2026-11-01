@@ -22,7 +22,7 @@ export const profile = {
   phone: '+919603145729',
   links: {
     linkedin: 'https://www.linkedin.com/in/yashwanth-goud-macha/',
-    github: 'https://github.com/yashwanthgoudmacha',
+    github: 'https://github.com/21r11a0530',
   },
   resumePdf: '/assets/Yashwanth_Goud_Macha_Resume.pdf',
   portrait: {
